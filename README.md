@@ -1,7 +1,25 @@
-width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Srimathi K</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srimathi-107&show_icons=true&locale=en&layout=compact" alt="srimathi-107" /></p>
+<h3 align="center">💻 MERN Stack Developer | Passionate Web Developer</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srimathi-107&show_icons=true&locale=en" alt="srimathi-107" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&vCenter=true&width=800&lines=Hi%2C+I'm+Srimathi+K+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+Bootstrap+%7C+Tailwind+CSS;JavaScript+%7C+React.js+%7C+Node.js+%7C+Express.js;SQL+Developer+%F0%9F%97%84%EF%B8%8F;Building+Responsive+Web+Applications+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srimathi-107&" alt="srimathi-107" /></p>
+---
+
+### 👩‍💻 About Me
+- 🌱 I’m **Srimathi K**, a passionate **MERN Stack Developer**.
+- 💻 Skilled in **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, and SQL**.
+- 🚀 I enjoy building **responsive, user-friendly, and scalable web applications**.
+- 📚 Currently learning **advanced MERN concepts, REST APIs, and Authentication**.
+- 🎯 Goal: To become a **Full-Stack MERN Developer** and contribute to impactful projects.
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mysql" />
+</p>
+
+### 📫 Connect With Me
+- 💼 LinkedIn: Add Your LinkedIn Link Here
+- 📧 Email: Add Your Email Here
