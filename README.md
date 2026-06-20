@@ -1,25 +1,48 @@
 <h1 align="center">Hi 👋, I'm Srimathi K</h1>
 
-<h3 align="center">💻 MERN Stack Developer | Passionate Web Developer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&vCenter=true&width=800&lines=Hi%2C+I'm+Srimathi+K+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+Bootstrap+%7C+Tailwind+CSS;JavaScript+%7C+React.js+%7C+Node.js+%7C+Express.js;SQL+Developer+%F0%9F%97%84%EF%B8%8F;Building+Responsive+Web+Applications+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer" alt="Typing SVG" />
+</p>
+
+<h3 align="center">💻 Passionate Web Developer from India</h3>
+
+---
+
+## 👩‍💻 About Me
+
+- 🌱 I’m **Srimathi K**, a passionate **MERN Stack Developer**.
+- 💻 Skilled in **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, and SQL**.
+- 🚀 I enjoy building responsive, user-friendly, and scalable web applications.
+- 📚 Currently learning advanced MERN concepts, REST APIs, and Authentication.
+- 🎯 My goal is to become a proficient **Full-Stack MERN Developer** and contribute to innovative projects.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mysql" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 🌱 I’m **Srimathi K**, a passionate **MERN Stack Developer**.
-- 💻 Skilled in **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, and SQL**.
-- 🚀 I enjoy building **responsive, user-friendly, and scalable web applications**.
-- 📚 Currently learning **advanced MERN concepts, REST APIs, and Authentication**.
-- 🎯 Goal: To become a **Full-Stack MERN Developer** and contribute to impactful projects.
+## 📊 GitHub Stats
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mysql" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
-### 📫 Connect With Me
-- 💼 LinkedIn: Add Your LinkedIn Link Here
-- 📧 Email: Add Your Email Here
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: Your LinkedIn Profile Link
+- 📧 Email: Your Email Address
