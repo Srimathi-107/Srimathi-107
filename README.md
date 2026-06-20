@@ -44,5 +44,5 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Your LinkedIn Profile Link
-- 📧 Email: Your Email Address
+- 💼 LinkedIn: (https://www.linkedin.com/in/srimathi-mern-stack-developer)
+- 📧 Email: ksangeethaksrimathi@gmail.com
